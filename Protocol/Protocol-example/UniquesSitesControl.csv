@@ -1,0 +1,58 @@
+Site,Protein,Protein-ID,Gene
+363,>Reverse >sp|P11413|G6PD_HUMAN Glucose-6-phosphate 1-dehydrogenase OS=Homo sapiens OX=9606 GN=G6PD PE=1 SV=4,P11413,G6PD
+500,>sp|O75473|LGR5_HUMAN Leucine-rich repeat-containing G-protein coupled receptor 5 OS=Homo sapiens OX=9606 GN=LGR5 PE=1 SV=1,O75473,LGR5
+189,>sp|O75636|FCN3_HUMAN Ficolin-3 OS=Homo sapiens OX=9606 GN=FCN3 PE=1 SV=2,O75636,FCN3
+211,>sp|P00738|HPT_HUMAN Haptoglobin OS=Homo sapiens OX=9606 GN=HP PE=1 SV=1,P00738,HPT
+308,>sp|P00747|PLMN_HUMAN Plasminogen OS=Homo sapiens OX=9606 GN=PLG PE=1 SV=2,P00747,PLMN
+433,>sp|P00748|FA12_HUMAN Coagulation factor XII OS=Homo sapiens OX=9606 GN=F12 PE=1 SV=3,P00748,FA12
+249,>sp|P00748|FA12_HUMAN Coagulation factor XII OS=Homo sapiens OX=9606 GN=F12 PE=1 SV=3,P00748,FA12
+224,>sp|P01008|ANT3_HUMAN Antithrombin-III OS=Homo sapiens OX=9606 GN=SERPINC1 PE=1 SV=1,P01008,ANT3
+186,>sp|P01011|AACT_HUMAN Alpha-1-antichymotrypsin OS=Homo sapiens OX=9606 GN=SERPINA3 PE=1 SV=2,P01011,AACT
+271,>sp|P01011|AACT_HUMAN Alpha-1-antichymotrypsin OS=Homo sapiens OX=9606 GN=SERPINA3 PE=1 SV=2,P01011,AACT
+47,>sp|P01019|ANGT_HUMAN Angiotensinogen OS=Homo sapiens OX=9606 GN=AGT PE=1 SV=1,P01019,ANGT
+170,>sp|P01019|ANGT_HUMAN Angiotensinogen OS=Homo sapiens OX=9606 GN=AGT PE=1 SV=1,P01019,ANGT
+169,>sp|P01042|KNG1_HUMAN Kininogen-1 OS=Homo sapiens OX=9606 GN=KNG1 PE=1 SV=2,P01042,KNG1
+2122,>sp|P01266|THYG_HUMAN Thyroglobulin OS=Homo sapiens OX=9606 GN=TG PE=1 SV=5,P01266,THYG
+947,>sp|P01266|THYG_HUMAN Thyroglobulin OS=Homo sapiens OX=9606 GN=TG PE=1 SV=5,P01266,THYG
+227,>sp|P01860|IGHG3_HUMAN Immunoglobulin heavy constant gamma 3 OS=Homo sapiens OX=9606 GN=IGHG3 PE=1 SV=2,P01860,IGHG3
+440,>sp|P01871|IGHM_HUMAN Immunoglobulin heavy constant mu OS=Homo sapiens OX=9606 GN=IGHM PE=1 SV=4,P01871,IGHM
+78,>sp|P02679|FIBG_HUMAN Fibrinogen gamma chain OS=Homo sapiens OX=9606 GN=FGG PE=1 SV=3,P02679,FIBG
+146,>sp|P02745|C1QA_HUMAN Complement C1q subcomponent subunit A OS=Homo sapiens OX=9606 GN=C1QA PE=1 SV=2,P02745,C1QA
+542,>sp|P02751|FINC_HUMAN Fibronectin OS=Homo sapiens OX=9606 GN=FN1 PE=1 SV=4,P02751,FINC
+1007,>sp|P02751|FINC_HUMAN Fibronectin OS=Homo sapiens OX=9606 GN=FN1 PE=1 SV=4,P02751,FINC
+240,>sp|P02790|HEMO_HUMAN Hemopexin OS=Homo sapiens OX=9606 GN=HPX PE=1 SV=2,P02790,HEMO
+246,>sp|P02790|HEMO_HUMAN Hemopexin OS=Homo sapiens OX=9606 GN=HPX PE=1 SV=2,P02790,HEMO
+127,>sp|P03952|KLKB1_HUMAN Plasma kallikrein OS=Homo sapiens OX=9606 GN=KLKB1 PE=1 SV=1,P03952,KLKB1
+494,>sp|P03952|KLKB1_HUMAN Plasma kallikrein OS=Homo sapiens OX=9606 GN=KLKB1 PE=1 SV=1,P03952,KLKB1
+290,>sp|P04070|PROC_HUMAN Vitamin K-dependent protein C OS=Homo sapiens OX=9606 GN=PROC PE=1 SV=1,P04070,PROC
+3224,>sp|P04114|APOB_HUMAN Apolipoprotein B-100 OS=Homo sapiens OX=9606 GN=APOB PE=1 SV=2,P04114,APOB
+3465,>sp|P04114|APOB_HUMAN Apolipoprotein B-100 OS=Homo sapiens OX=9606 GN=APOB PE=1 SV=2,P04114,APOB
+125,>sp|P04196|HRG_HUMAN Histidine-rich glycoprotein OS=Homo sapiens OX=9606 GN=HRG PE=1 SV=1,P04196,HRG
+345,>sp|P04196|HRG_HUMAN Histidine-rich glycoprotein OS=Homo sapiens OX=9606 GN=HRG PE=1 SV=1,P04196,HRG
+344,>sp|P04196|HRG_HUMAN Histidine-rich glycoprotein OS=Homo sapiens OX=9606 GN=HRG PE=1 SV=1,P04196,HRG
+666,>sp|P04275|VWF_HUMAN von Willebrand factor OS=Homo sapiens OX=9606 GN=VWF PE=1 SV=4,P04275,VWF
+396,>sp|P04278|SHBG_HUMAN Sex hormone-binding globulin OS=Homo sapiens OX=9606 GN=SHBG PE=1 SV=2,P04278,SHBG
+70,>sp|P05156|CFAI_HUMAN Complement factor I OS=Homo sapiens OX=9606 GN=CFI PE=1 SV=2,P05156,CFAI
+49,>sp|P05546|HEP2_HUMAN Heparin cofactor 2 OS=Homo sapiens OX=9606 GN=SERPIND1 PE=1 SV=3,P05546,HEP2
+188,>sp|P05546|HEP2_HUMAN Heparin cofactor 2 OS=Homo sapiens OX=9606 GN=SERPIND1 PE=1 SV=3,P05546,HEP2
+621,>sp|P06681|CO2_HUMAN Complement C2 OS=Homo sapiens OX=9606 GN=C2 PE=1 SV=2,P06681,CO2
+61,>sp|P08519|APOA_HUMAN Apolipoprotein(a) OS=Homo sapiens OX=9606 GN=LPA PE=1 SV=1,P08519,APOA
+217,>sp|P08603|CFAH_HUMAN Complement factor H OS=Homo sapiens OX=9606 GN=CFH PE=1 SV=4,P08603,CFAH
+911,>sp|P08603|CFAH_HUMAN Complement factor H OS=Homo sapiens OX=9606 GN=CFH PE=1 SV=4,P08603,CFAH
+1029,>sp|P08603|CFAH_HUMAN Complement factor H OS=Homo sapiens OX=9606 GN=CFH PE=1 SV=4,P08603,CFAH
+496,>sp|P0DOX3|IGD_HUMAN Immunoglobulin delta heavy chain OS=Homo sapiens OX=9606 PE=1 SV=1,P0DOX3,IGD
+754,>sp|P10643|CO7_HUMAN Complement component C7 OS=Homo sapiens OX=9606 GN=C7 PE=1 SV=2,P10643,CO7
+118,>sp|P19823|ITIH2_HUMAN Inter-alpha-trypsin inhibitor heavy chain H2 OS=Homo sapiens OX=9606 GN=ITIH2 PE=1 SV=2,P19823,ITIH2
+64,>sp|P20851|C4BPB_HUMAN C4b-binding protein beta chain OS=Homo sapiens OX=9606 GN=C4BPB PE=1 SV=1,P20851,C4BPB
+1470,>sp|P23467|PTPRB_HUMAN Receptor-type tyrosine-protein phosphatase beta OS=Homo sapiens OX=9606 GN=PTPRB PE=1 SV=3,P23467,PTPRB
+296,>sp|P26927|HGFL_HUMAN Hepatocyte growth factor-like protein OS=Homo sapiens OX=9606 GN=MST1 PE=1 SV=2,P26927,HGFL
+324,>sp|P27169|PON1_HUMAN Serum paraoxonase/arylesterase 1 OS=Homo sapiens OX=9606 GN=PON1 PE=1 SV=3,P27169,PON1
+126,>sp|P36980|FHR2_HUMAN Complement factor H-related protein 2 OS=Homo sapiens OX=9606 GN=CFHR2 PE=1 SV=1,P36980,FHR2
+109,>sp|P43652|AFAM_HUMAN Afamin OS=Homo sapiens OX=9606 GN=AFM PE=1 SV=1,P43652,AFAM
+83,>sp|P49908|SEPP1_HUMAN Selenoprotein P OS=Homo sapiens OX=9606 GN=SELENOP PE=1 SV=3,P49908,SEPP1
+174,>sp|P49908|SEPP1_HUMAN Selenoprotein P OS=Homo sapiens OX=9606 GN=SELENOP PE=1 SV=3,P49908,SEPP1
+127,>sp|P51884|LUM_HUMAN Lumican OS=Homo sapiens OX=9606 GN=LUM PE=1 SV=2,P51884,LUM
+1330,>sp|P82987|ATL3_HUMAN ADAMTS-like protein 3 OS=Homo sapiens OX=9606 GN=ADAMTSL3 PE=1 SV=4,P82987,ATL3
+108,>sp|Q02985|FHR3_HUMAN Complement factor H-related protein 3 OS=Homo sapiens OX=9606 GN=CFHR3 PE=1 SV=2,Q02985,FHR3
+136,>sp|Q9UGM5|FETUB_HUMAN Fetuin-B OS=Homo sapiens OX=9606 GN=FETUB PE=1 SV=2,Q9UGM5,FETUB
+353,>sp|Q9UHG3|PCYOX_HUMAN Prenylcysteine oxidase 1 OS=Homo sapiens OX=9606 GN=PCYOX1 PE=1 SV=3,Q9UHG3,PCYOX

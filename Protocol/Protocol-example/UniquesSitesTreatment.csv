@@ -1,0 +1,96 @@
+Site,Protein,Protein-ID,Gene
+363,>Reverse >sp|Q8N9V7|TOPZ1_HUMAN Protein TOPAZ1 OS=Homo sapiens OX=9606 GN=TOPAZ1 PE=2 SV=3,Q8N9V7,TOPZ1
+827,">sp|O43451|MGA_HUMAN Maltase-glucoamylase, intestinal OS=Homo sapiens OX=9606 GN=MGAM PE=1 SV=5",O43451,MGA
+781,>sp|O60494|CUBN_HUMAN Cubilin OS=Homo sapiens OX=9606 GN=CUBN PE=1 SV=5,O60494,CUBN
+1802,>sp|O60494|CUBN_HUMAN Cubilin OS=Homo sapiens OX=9606 GN=CUBN PE=1 SV=5,O60494,CUBN
+2531,>sp|O60494|CUBN_HUMAN Cubilin OS=Homo sapiens OX=9606 GN=CUBN PE=1 SV=5,O60494,CUBN
+2923,>sp|O60494|CUBN_HUMAN Cubilin OS=Homo sapiens OX=9606 GN=CUBN PE=1 SV=5,O60494,CUBN
+3125,>sp|O60494|CUBN_HUMAN Cubilin OS=Homo sapiens OX=9606 GN=CUBN PE=1 SV=5,O60494,CUBN
+3457,>sp|O60494|CUBN_HUMAN Cubilin OS=Homo sapiens OX=9606 GN=CUBN PE=1 SV=5,O60494,CUBN
+102,>sp|O75144|ICOSL_HUMAN ICOS ligand OS=Homo sapiens OX=9606 GN=ICOSLG PE=1 SV=2,O75144,ICOSL
+30,>sp|O75388|GPR32_HUMAN Probable G-protein coupled receptor 32 OS=Homo sapiens OX=9606 GN=GPR32 PE=2 SV=1,O75388,GPR32
+203,>sp|O75503|CLN5_HUMAN Ceroid-lipofuscinosis neuronal protein 5 OS=Homo sapiens OX=9606 GN=CLN5 PE=1 SV=2,O75503,CLN5
+1069,>sp|O94822|LTN1_HUMAN E3 ubiquitin-protein ligase listerin OS=Homo sapiens OX=9606 GN=LTN1 PE=1 SV=6,O94822,LTN1
+283,>sp|O95497|VNN1_HUMAN Pantetheinase OS=Homo sapiens OX=9606 GN=VNN1 PE=1 SV=2,O95497,VNN1
+133,>sp|O96009|NAPSA_HUMAN Napsin-A OS=Homo sapiens OX=9606 GN=NAPSA PE=1 SV=1,O96009,NAPSA
+469,>sp|P01833|PIGR_HUMAN Polymeric immunoglobulin receptor OS=Homo sapiens OX=9606 GN=PIGR PE=1 SV=4,P01833,PIGR
+499,>sp|P01833|PIGR_HUMAN Polymeric immunoglobulin receptor OS=Homo sapiens OX=9606 GN=PIGR PE=1 SV=4,P01833,PIGR
+686,>sp|P02671|FIBA_HUMAN Fibrinogen alpha chain OS=Homo sapiens OX=9606 GN=FGA PE=1 SV=2,P02671,FIBA
+169,>sp|P04004|VTNC_HUMAN Vitronectin OS=Homo sapiens OX=9606 GN=VTN PE=1 SV=1,P04004,VTNC
+65,>sp|P05090|APOD_HUMAN Apolipoprotein D OS=Homo sapiens OX=9606 GN=APOD PE=1 SV=1,P05090,APOD
+262,>sp|P05154|IPSP_HUMAN Plasma serine protease inhibitor OS=Homo sapiens OX=9606 GN=SERPINA5 PE=1 SV=3,P05154,IPSP
+355,>sp|P05164|PERM_HUMAN Myeloperoxidase OS=Homo sapiens OX=9606 GN=MPO PE=1 SV=1,P05164,PERM
+369,>sp|P06276|CHLE_HUMAN Cholinesterase OS=Homo sapiens OX=9606 GN=BCHE PE=1 SV=1,P06276,CHLE
+509,>sp|P06276|CHLE_HUMAN Cholinesterase OS=Homo sapiens OX=9606 GN=BCHE PE=1 SV=1,P06276,CHLE
+157,>sp|P06865|HEXA_HUMAN Beta-hexosaminidase subunit alpha OS=Homo sapiens OX=9606 GN=HEXA PE=1 SV=2,P06865,HEXA
+101,>sp|P07602|SAP_HUMAN Prosaposin OS=Homo sapiens OX=9606 GN=PSAP PE=1 SV=2,P07602,SAP
+232,>sp|P07911|UROM_HUMAN Uromodulin OS=Homo sapiens OX=9606 GN=UMOD PE=1 SV=1,P07911,UROM
+322,>sp|P07911|UROM_HUMAN Uromodulin OS=Homo sapiens OX=9606 GN=UMOD PE=1 SV=1,P07911,UROM
+513,>sp|P07911|UROM_HUMAN Uromodulin OS=Homo sapiens OX=9606 GN=UMOD PE=1 SV=1,P07911,UROM
+62,>sp|P07998|RNAS1_HUMAN Ribonuclease pancreatic OS=Homo sapiens OX=9606 GN=RNASE1 PE=1 SV=4,P07998,RNAS1
+104,>sp|P07998|RNAS1_HUMAN Ribonuclease pancreatic OS=Homo sapiens OX=9606 GN=RNASE1 PE=1 SV=4,P07998,RNAS1
+95,>sp|P08174|DAF_HUMAN Complement decay-accelerating factor OS=Homo sapiens OX=9606 GN=CD55 PE=1 SV=4,P08174,DAF
+285,>sp|P08473|NEP_HUMAN Neprilysin OS=Homo sapiens OX=9606 GN=MME PE=1 SV=2,P08473,NEP
+145,>sp|P08473|NEP_HUMAN Neprilysin OS=Homo sapiens OX=9606 GN=MME PE=1 SV=2,P08473,NEP
+151,>sp|P08571|CD14_HUMAN Monocyte differentiation antigen CD14 OS=Homo sapiens OX=9606 GN=CD14 PE=1 SV=2,P08571,CD14
+111,>sp|P10153|RNAS2_HUMAN Non-secretory ribonuclease OS=Homo sapiens OX=9606 GN=RNASE2 PE=1 SV=2,P10153,RNAS2
+119,>sp|P10153|RNAS2_HUMAN Non-secretory ribonuclease OS=Homo sapiens OX=9606 GN=RNASE2 PE=1 SV=2,P10153,RNAS2
+470,>sp|P10253|LYAG_HUMAN Lysosomal alpha-glucosidase OS=Homo sapiens OX=9606 GN=GAA PE=1 SV=4,P10253,LYAG
+167,>sp|P11117|PPAL_HUMAN Lysosomal acid phosphatase OS=Homo sapiens OX=9606 GN=ACP2 PE=1 SV=3,P11117,PPAL
+261,>sp|P11279|LAMP1_HUMAN Lysosome-associated membrane glycoprotein 1 OS=Homo sapiens OX=9606 GN=LAMP1 PE=1 SV=3,P11279,LAMP1
+212,>sp|P12109|CO6A1_HUMAN Collagen alpha-1(VI) chain OS=Homo sapiens OX=9606 GN=COL6A1 PE=1 SV=3,P12109,CO6A1
+714,>sp|P12821|ACE_HUMAN Angiotensin-converting enzyme OS=Homo sapiens OX=9606 GN=ACE PE=1 SV=1,P12821,ACE
+257,>sp|P13473|LAMP2_HUMAN Lysosome-associated membrane glycoprotein 2 OS=Homo sapiens OX=9606 GN=LAMP2 PE=1 SV=2,P13473,LAMP2
+43,>sp|P13987|CD59_HUMAN CD59 glycoprotein OS=Homo sapiens OX=9606 GN=CD59 PE=1 SV=1,P13987,CD59
+234,>sp|P15144|AMPN_HUMAN Aminopeptidase N OS=Homo sapiens OX=9606 GN=ANPEP PE=1 SV=4,P15144,AMPN
+265,>sp|P15144|AMPN_HUMAN Aminopeptidase N OS=Homo sapiens OX=9606 GN=ANPEP PE=1 SV=4,P15144,AMPN
+94,>sp|P15309|PPAP_HUMAN Prostatic acid phosphatase OS=Homo sapiens OX=9606 GN=ACPP PE=1 SV=3,P15309,PPAP
+333,>sp|P15309|PPAP_HUMAN Prostatic acid phosphatase OS=Homo sapiens OX=9606 GN=ACPP PE=1 SV=3,P15309,PPAP
+161,>sp|P15328|FOLR1_HUMAN Folate receptor alpha OS=Homo sapiens OX=9606 GN=FOLR1 PE=1 SV=3,P15328,FOLR1
+362,>sp|P15586|GNS_HUMAN N-acetylglucosamine-6-sulfatase OS=Homo sapiens OX=9606 GN=GNS PE=1 SV=3,P15586,GNS
+405,>sp|P15586|GNS_HUMAN N-acetylglucosamine-6-sulfatase OS=Homo sapiens OX=9606 GN=GNS PE=1 SV=3,P15586,GNS
+57,>sp|P16444|DPEP1_HUMAN Dipeptidase 1 OS=Homo sapiens OX=9606 GN=DPEP1 PE=1 SV=3,P16444,DPEP1
+279,>sp|P16444|DPEP1_HUMAN Dipeptidase 1 OS=Homo sapiens OX=9606 GN=DPEP1 PE=1 SV=3,P16444,DPEP1
+332,>sp|P16444|DPEP1_HUMAN Dipeptidase 1 OS=Homo sapiens OX=9606 GN=DPEP1 PE=1 SV=3,P16444,DPEP1
+139,>sp|P16870|CBPE_HUMAN Carboxypeptidase E OS=Homo sapiens OX=9606 GN=CPE PE=1 SV=1,P16870,CBPE
+511,>sp|P19440|GGT1_HUMAN Glutathione hydrolase 1 proenzyme OS=Homo sapiens OX=9606 GN=GGT1 PE=1 SV=2,P19440,GGT1
+348,>sp|P22792|CPN2_HUMAN Carboxypeptidase N subunit 2 OS=Homo sapiens OX=9606 GN=CPN2 PE=1 SV=3,P22792,CPN2
+109,>sp|P25311|ZA2G_HUMAN Zinc-alpha-2-glycoprotein OS=Homo sapiens OX=9606 GN=AZGP1 PE=1 SV=2,P25311,ZA2G
+95,>sp|P26842|CD27_HUMAN CD27 antigen OS=Homo sapiens OX=9606 GN=CD27 PE=1 SV=2,P26842,CD27
+198,>sp|P30530|UFO_HUMAN Tyrosine-protein kinase receptor UFO OS=Homo sapiens OX=9606 GN=AXL PE=1 SV=4,P30530,UFO
+345,>sp|P30530|UFO_HUMAN Tyrosine-protein kinase receptor UFO OS=Homo sapiens OX=9606 GN=AXL PE=1 SV=4,P30530,UFO
+423,>sp|P34059|GALNS_HUMAN N-acetylgalactosamine-6-sulfatase OS=Homo sapiens OX=9606 GN=GALNS PE=1 SV=1,P34059,GALNS
+2767,>sp|P35555|FBN1_HUMAN Fibrillin-1 OS=Homo sapiens OX=9606 GN=FBN1 PE=1 SV=4,P35555,FBN1
+51,>sp|P41222|PTGDS_HUMAN Prostaglandin-H2 D-isomerase OS=Homo sapiens OX=9606 GN=PTGDS PE=1 SV=1,P41222,PTGDS
+78,>sp|P41222|PTGDS_HUMAN Prostaglandin-H2 D-isomerase OS=Homo sapiens OX=9606 GN=PTGDS PE=1 SV=1,P41222,PTGDS
+39,>sp|P41271|NBL1_HUMAN Neuroblastoma suppressor of tumorigenicity 1 OS=Homo sapiens OX=9606 GN=NBL1 PE=1 SV=2,P41271,NBL1
+150,>sp|P43251|BTD_HUMAN Biotinidase OS=Homo sapiens OX=9606 GN=BTD PE=1 SV=2,P43251,BTD
+1496,>sp|P98164|LRP2_HUMAN Low-density lipoprotein receptor-related protein 2 OS=Homo sapiens OX=9606 GN=LRP2 PE=1 SV=3,P98164,LRP2
+2224,>sp|P98164|LRP2_HUMAN Low-density lipoprotein receptor-related protein 2 OS=Homo sapiens OX=9606 GN=LRP2 PE=1 SV=3,P98164,LRP2
+3315,>sp|P98164|LRP2_HUMAN Low-density lipoprotein receptor-related protein 2 OS=Homo sapiens OX=9606 GN=LRP2 PE=1 SV=3,P98164,LRP2
+392,>sp|Q02487|DSC2_HUMAN Desmocollin-2 OS=Homo sapiens OX=9606 GN=DSC2 PE=1 SV=1,Q02487,DSC2
+828,>sp|Q07075|AMPE_HUMAN Glutamyl aminopeptidase OS=Homo sapiens OX=9606 GN=ENPEP PE=1 SV=3,Q07075,AMPE
+589,>sp|Q07075|AMPE_HUMAN Glutamyl aminopeptidase OS=Homo sapiens OX=9606 GN=ENPEP PE=1 SV=3,Q07075,AMPE
+597,>sp|Q07075|AMPE_HUMAN Glutamyl aminopeptidase OS=Homo sapiens OX=9606 GN=ENPEP PE=1 SV=3,Q07075,AMPE
+259,>sp|Q13510|ASAH1_HUMAN Acid ceramidase OS=Homo sapiens OX=9606 GN=ASAH1 PE=1 SV=5,Q13510,ASAH1
+336,>sp|Q14314|FGL2_HUMAN Fibroleukin OS=Homo sapiens OX=9606 GN=FGL2 PE=1 SV=1,Q14314,FGL2
+44,>sp|Q14508|WFDC2_HUMAN WAP four-disulfide core domain protein 2 OS=Homo sapiens OX=9606 GN=WFDC2 PE=1 SV=2,Q14508,WFDC2
+169,>sp|Q14515|SPRL1_HUMAN SPARC-like protein 1 OS=Homo sapiens OX=9606 GN=SPARCL1 PE=1 SV=2,Q14515,SPRL1
+49,>sp|Q16769|QPCT_HUMAN Glutaminyl-peptide cyclotransferase OS=Homo sapiens OX=9606 GN=QPCT PE=1 SV=1,Q16769,QPCT
+91,>sp|Q5ZPR3|CD276_HUMAN CD276 antigen OS=Homo sapiens OX=9606 GN=CD276 PE=1 SV=1,Q5ZPR3,CD276
+117,>sp|Q6EMK4|VASN_HUMAN Vasorin OS=Homo sapiens OX=9606 GN=VASN PE=1 SV=1,Q6EMK4,VASN
+500,>sp|Q6EMK4|VASN_HUMAN Vasorin OS=Homo sapiens OX=9606 GN=VASN PE=1 SV=1,Q6EMK4,VASN
+80,>sp|Q6UWI2|PARM1_HUMAN Prostate androgen-regulated mucin-like protein 1 OS=Homo sapiens OX=9606 GN=PARM1 PE=1 SV=1,Q6UWI2,PARM1
+337,>sp|Q6YHK3|CD109_HUMAN CD109 antigen OS=Homo sapiens OX=9606 GN=CD109 PE=1 SV=2,Q6YHK3,CD109
+331,>sp|Q6ZW33|MICLK_HUMAN MICAL C-terminal-like protein OS=Homo sapiens OX=9606 GN=MICALCL PE=1 SV=3,Q6ZW33,MICLK
+637,>sp|Q7Z7M0|MEGF8_HUMAN Multiple epidermal growth factor-like domains protein 8 OS=Homo sapiens OX=9606 GN=MEGF8 PE=1 SV=2,Q7Z7M0,MEGF8
+421,>sp|Q7Z7M0|MEGF8_HUMAN Multiple epidermal growth factor-like domains protein 8 OS=Homo sapiens OX=9606 GN=MEGF8 PE=1 SV=2,Q7Z7M0,MEGF8
+66,>sp|Q96FE7|P3IP1_HUMAN Phosphoinositide-3-kinase-interacting protein 1 OS=Homo sapiens OX=9606 GN=PIK3IP1 PE=1 SV=2,Q96FE7,P3IP1
+406,>sp|Q99523|SORT_HUMAN Sortilin OS=Homo sapiens OX=9606 GN=SORT1 PE=1 SV=3,Q99523,SORT
+167,>sp|Q9BX51|GGTL1_HUMAN Glutathione hydrolase light chain 1 OS=Homo sapiens OX=9606 GN=GGTLC1 PE=2 SV=2,Q9BX51,GGTL1
+41,>sp|Q9H0B8|CRLD2_HUMAN Cysteine-rich secretory protein LCCL domain-containing 2 OS=Homo sapiens OX=9606 GN=CRISPLD2 PE=2 SV=1,Q9H0B8,CRLD2
+346,>sp|Q9H3G5|CPVL_HUMAN Probable serine carboxypeptidase CPVL OS=Homo sapiens OX=9606 GN=CPVL PE=1 SV=2,Q9H3G5,CPVL
+147,>sp|Q9NZP8|C1RL_HUMAN Complement C1r subcomponent-like protein OS=Homo sapiens OX=9606 GN=C1RL PE=1 SV=2,Q9NZP8,C1RL
+59,>sp|Q9ULV1|FZD4_HUMAN Frizzled-4 OS=Homo sapiens OX=9606 GN=FZD4 PE=1 SV=2,Q9ULV1,FZD4
+144,>sp|Q9ULV1|FZD4_HUMAN Frizzled-4 OS=Homo sapiens OX=9606 GN=FZD4 PE=1 SV=2,Q9ULV1,FZD4
+105,>sp|Q9Y6Q6|TNR11_HUMAN Tumor necrosis factor receptor superfamily member 11A OS=Homo sapiens OX=9606 GN=TNFRSF11A PE=1 SV=1,Q9Y6Q6,TNR11
